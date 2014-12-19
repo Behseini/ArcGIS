@@ -1,1 +1,3 @@
 In ArcGIS 
+Google uses WGS 84 Web Mercator it is under Projectse but ,,,,
+Internally Google Maps is using a projected coordinate system (spherical Mercator), but when you query for or pass in coordinates, the API returns lat/lon.
